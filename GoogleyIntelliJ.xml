@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IntelliJ keymap file (on Mac) lives at ~/Library/Preferences/IntelliJIdea10CE/keymaps/Googley.xml -->
+<keymap version="1" name="Googley" parent="$default">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift control 4" />
+  </action>
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="control F4" />
+    <keyboard-shortcut first-keystroke="control W" />
+  </action>
+  <action id="CollapseSelection" />
+  <action id="ContextHelp" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift F9" />
+    <keyboard-shortcut first-keystroke="shift control 9" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt F8" />
+    <keyboard-shortcut first-keystroke="control alt 8" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F12" />
+    <keyboard-shortcut first-keystroke="control NUMPAD8" />
+    <keyboard-shortcut first-keystroke="control 8" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+    <keyboard-shortcut first-keystroke="alt BACK_SLASH" />
+  </action>
+  <action id="GotoBookmark2" />
+  <action id="GotoBookmark8" />
+  <action id="GotoTest" />
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift control F12" />
+    <keyboard-shortcut first-keystroke="shift control 0" />
+  </action>
+  <action id="Images.ShowThumbnails" />
+  <action id="QuickChangeScheme" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="control alt F8" />
+    <mouse-shortcut keystroke="alt button1" />
+    <keyboard-shortcut first-keystroke="control E" />
+  </action>
+  <action id="RecentFiles" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift control R" />
+    <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift F10" />
+    <keyboard-shortcut first-keystroke="shift control 8" />
+  </action>
+  <action id="Runner.CloseView">
+    <keyboard-shortcut first-keystroke="shift control W" />
+  </action>
+  <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="F1" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="control F2" />
+    <keyboard-shortcut first-keystroke="control 2" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="control alt T" />
+    <keyboard-shortcut first-keystroke="shift control T" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+  <action id="ToggleBookmark0" />
+  <action id="ToggleBookmark4" />
+  <action id="ToggleBookmark8" />
+  <action id="ToggleBookmark9" />
+  <action id="UsageView.ShowRecentFindUsages" />
+</keymap>
+

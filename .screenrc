@@ -1,0 +1,5 @@
+hardstatus alwayslastline
+defscrollback 10000
+startup_message off
+hardstatus on
+hardstatus string "%{.bW}%-w%{.rW}%n %t%{-}%+w %=%{.rW} %H %{.rW} %m/%d %C%a "
