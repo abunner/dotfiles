@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- IntelliJ keymap file (on Mac) lives at ~/Library/Preferences/IntelliJIdea10CE/keymaps/Googley.xml -->
+<!-- last changed sometime in 2011 -->
 <keymap version="1" name="Googley" parent="$default">
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift control 4" />
