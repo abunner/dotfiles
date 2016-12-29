@@ -6,11 +6,6 @@ set winminheight=0
 :nmap <C-K> <C-W>k<C-W>_
 :nmap <C-W>m <C-W>_
 :nmap + <C-W>+
-:ab ldb LOG4CXX_DEBUG(_logger,
-:ab linfo LOG4CXX_INFO(_logger,
-:ab lwarn LOG4CXX_WARN(_logger,
-:ab lerr LOG4CXX_ERROR(_logger,
-:ab lfatal LOG4CXX_FATAL(_logger,
 filetype on
 filetype plugin on
 syntax on
@@ -27,6 +22,3 @@ set expandtab
 set ruler
 :highlight ExtraWhitespace ctermbg=darkgreen guibg=lightgreen
 :autocmd Syntax * syn match ExtraWhitespace /\s\+$\| \+\ze\t/
-" Go
-au BufNewFile,BufRead *.go                      setf go
-au BufNewFile,BufRead *.esx                     setf javascript
